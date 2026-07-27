@@ -14,11 +14,11 @@ Clean the raw data so it is ready for Exploratory Data Analysis (EDA).
 
 | Step | Description | Script |
 |------|-------------|--------|
-| 1 | Create staging table (preserve original data) | `01_Intro_to_data_cleaning.sql` |
-| 2 | Remove duplicate rows | `02_Removing_duplicates.sql` |
-| 3 | Standardize data (trim, fix industry names, convert date) | `03_Standardizing_data.sql` |
-| 4 | Handle null / blank values | `04_Handling_null_values.sql` |
-| 5 | Remove unnecessary columns | `05_Removing_columns.sql` |
+| 1 | Create staging table (preserve original data) | `Intro_to_data_cleaning.sql` |
+| 2 | Remove duplicate rows | `Removing_duplicates.sql` |
+| 3 | Standardize data (trim, fix industry names, convert date) | `Standardizing_data.sql` |
+| 4 | Handle null / blank values | `Handling_null_values.sql` |
+| 5 | Remove unnecessary columns | `Removing_columns.sql` |
 
 ## How to Run
 
